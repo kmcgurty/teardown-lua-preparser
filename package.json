@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=dev SERVER_ADDR='localhost:9999' gulp",
-    "release": "cross-env NODE_ENV=release SERVER_ADDR='143.198.114.114:9999' gulp"
+    "dev": "cross-env NODE_ENV=dev' gulp",
+    "release": "cross-env NODE_ENV=release' gulp"
   },
   "author": "",
   "license": "ISC",
