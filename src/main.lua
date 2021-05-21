@@ -1,4 +1,4 @@
--- @include examplefile.lua
+-- @include lib\examplefile.lua
 
 --@if NODE_ENV='dev'
     --running in dev mode
